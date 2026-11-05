@@ -1,0 +1,62 @@
+console.log("Olá mundo");
+VM484:1 Olá mundo
+undefined
+console.log(10 + 5);
+VM565:1 15
+undefined
+console.log("Meu nome é Alexandre");
+VM696:1 Meu nome é Alexandre
+undefined
+const nome = "Alexandre";
+undefined
+nome
+'Alexandre'
+const idade = 18;
+undefined
+idade
+18
+let pontos = 10;
+undefined
+pontos
+10
+console.log(typeof "ADS");
+VM1094:1 string
+undefined
+console.log(typeof 45);
+VM1112:1 number
+undefined
+console.log(typeof 50.57);
+VM1138:1 number
+undefined
+var1 = 15;
+15
+var2 = 20;
+20
+soma=var1+var2;
+35
+n1=4, n2=20, soma=n1+n2, subtracao=n1-n2, mult=n1*n2, div=n1/n2;
+0.2
+n1=4;
+4
+n2=20;
+20
+soma=n1+n2;
+24
+subtracao=n1-n2;
+-16
+mult=n1*n2;
+80
+div=n1/n2;
+0.2
+nota1=7;
+7
+nota2=8;
+8
+nota3=9;
+9
+media=soma(nota1+nota2+nota3)/3
+VM2164:1 Uncaught TypeError: soma is not a function
+    at <anonymous>:1:7
+(anonymous) @ VM2164:1
+media=(nota1+nota2+nota3)/3;
+8
